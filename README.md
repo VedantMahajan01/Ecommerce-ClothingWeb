@@ -21,6 +21,3 @@ Here are the key features you can include:
 + Price Display: Clearly show the product price, including discounts.
 + Add to Cart/Buy Now Button: Simplify the process of adding products to the shopping cart.
 <br>
-# Demo
-<br>
-[Ecommerce website](file:///D:/Projects/E-commerce%20website/index.html)
