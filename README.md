@@ -1,12 +1,12 @@
-STYLEY - Ecommerce website
+# STYLEY - Ecommerce website
 
-Technologies Used
+# Technologies Used
 
 HTML
 CSS
 JavaScript
 
-Features
+# Features
 
 Creating an e-commerce website using HTML, CSS, and JavaScript involves implementing 
 various features to ensure a smooth, user-friendly shopping experience. 
@@ -20,8 +20,6 @@ High-Quality Images: Multiple images with zoom functionality.
 Product Description: Details such as materials, size, colors, and additional features.
 Price Display: Clearly show the product price, including discounts.
 Add to Cart/Buy Now Button: Simplify the process of adding products to the shopping cart.
-
-
-
-Demo
+<line> </line>
+# Demo
 clothing website
